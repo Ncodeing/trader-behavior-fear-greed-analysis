@@ -23,10 +23,9 @@ The final output is an interactive dashboard for exploration and insights.
 ```
 📦 trader-behavior-analysis
  ┣ 📜 app.py                     # Streamlit dashboard
- ┣ 📜 analysis.ipynb             # (optional) exploratory notebook
+ ┣ 📜 analysis.ipynb             # exploratory notebook
  ┣ 📜 historical_data.csv        # trader data
  ┣ 📜 fear_greed_index.csv       # sentiment data
- ┣ 📜 requirements.txt
  ┗ 📜 README.md
 ```
 
