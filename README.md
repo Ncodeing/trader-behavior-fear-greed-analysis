@@ -67,6 +67,21 @@ Then open the local URL shown in the terminal (usually):
 ```
 http://localhost:8501
 ```
+### Screenshot of Dashboard:
+
+#### Overview Tab
+<img width="965" height="966" alt="image" src="https://github.com/user-attachments/assets/dfb306f2-aabc-45ad-ac7e-b9cda0aeb93f" />
+
+#### Behavior Analysis Tab
+<img width="1173" height="583" alt="image" src="https://github.com/user-attachments/assets/78b12321-c899-4dea-a023-51ba9a1d9fb5" />
+
+#### Trader Archetypes Tab
+<img width="1162" height="630" alt="image" src="https://github.com/user-attachments/assets/4c827f30-188d-4197-a977-c66b53671ae2" />
+
+#### ML Prediction Tab
+<img width="1147" height="675" alt="image" src="https://github.com/user-attachments/assets/b5d1dad7-2507-4b69-968c-03fc37f2e9b9" />
+
+
 
 ---
 
