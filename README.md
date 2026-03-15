@@ -1,11 +1,11 @@
-# 📊 Trader Behavior vs Fear & Greed Analysis
+# Trader Behavior vs Fear & Greed Analysis
 
 A data analytics and machine learning project that explores how trader behavior and profitability change with market sentiment (Fear vs Greed).
 The project includes end-to-end data preparation, behavioral analysis, trader segmentation, predictive modeling, and an interactive Streamlit dashboard.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project analyzes historical crypto trading data alongside the Fear & Greed Index to answer key questions:
 
@@ -18,20 +18,20 @@ The final output is an interactive dashboard for exploration and insights.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
-📦 trader-behavior-analysis
- ┣ 📜 app.py                     # Streamlit dashboard
- ┣ 📜 analysis.ipynb             # exploratory notebook
- ┣ 📜 historical_data.csv        # trader data
- ┣ 📜 fear_greed_index.csv       # sentiment data
- ┗ 📜 README.md
+   trader-behavior-analysis
+ ┣ app.py                     # Streamlit dashboard
+ ┣ analysis.ipynb             # exploratory notebook
+ ┣ historical_data.csv        # trader data
+ ┣ fear_greed_index.csv       # sentiment data
+ ┗ README.md
 ```
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * Python (Pandas, NumPy)
 * Streamlit
@@ -42,7 +42,7 @@ The final output is an interactive dashboard for exploration and insights.
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ###  Clone the repository
 
@@ -54,7 +54,7 @@ cd trader-behavior-analysis
 ---
 
 
-## ▶️ How to Run the Dashboard
+## How to Run the Dashboard
 
 Run the Streamlit app:
 
@@ -85,18 +85,18 @@ http://localhost:8501
 
 ---
 
-## 📊 Key Features
+## Key Features
 
-✅ KPI overview (PnL, Win Rate, Trade Size)
-✅ Performance comparison: Fear vs Greed
-✅ Trader behavior analysis
-✅ Behavioral archetype segmentation
-✅ ML model to predict win probability
-✅ Interactive visual dashboard
+* KPI overview (PnL, Win Rate, Trade Size)
+* Performance comparison: Fear vs Greed
+* Trader behavior analysis
+* Behavioral archetype segmentation
+* ML model to predict win probability
+* Interactive visual dashboard
 
 ---
 
-## 🧠 Methodology (Short Summary)
+## Methodology (Short Summary)
 
 1. **Data Preparation**
 
@@ -129,7 +129,7 @@ http://localhost:8501
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 * Trader performance varies significantly across sentiment regimes.
 * High trade frequency does not always correlate with profitability.
@@ -138,14 +138,14 @@ http://localhost:8501
 
 ---
 
-## 📈 Strategy Recommendations
+## Strategy Recommendations
 
 **Rule 1:** During Fear periods, reduce position size for high-risk traders.
 **Rule 2:** Consistent winners can increase activity during neutral/greed regimes.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Real-time data pipeline
 * Advanced time-series modeling
@@ -155,7 +155,7 @@ http://localhost:8501
 
 ---
 
-## 👤 Author
+## Author
 
 **Niyati Kalia**
 Aspiring Data Analyst | ML Enthusiast
@@ -165,6 +165,6 @@ Aspiring Data Analyst | ML Enthusiast
 
 ---
 
-## ⭐ If you found this useful
+## If you found this useful
 
-Give the repo a star ⭐ and feel free to fork!
+Give the repo a star and feel free to fork!
